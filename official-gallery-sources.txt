@@ -1,0 +1,20 @@
+OFFICIAL HAILE HOTELS & RESORTS GALLERY IMAGE SOURCES
+Source page: https://hailehotelsandresorts.com/gallery
+
+Lobby Elegance: https://hailehotelsandresorts.com/images/gallery/Accommodation/lobby1.jpg
+Beauty & Wellness: https://hailehotelsandresorts.com/images/gallery/Accommodation/beutiy1.jpg
+Pool View: https://hailehotelsandresorts.com/images/gallery/Activities/Pool2.jpg
+Wellness Pool: https://hailehotelsandresorts.com/images/gallery/Activities/Grand-wellness-2.jpg
+Dining Room: https://hailehotelsandresorts.com/images/gallery/Dining/haile-resorts-rooms-1-4.jpg
+Dining Detail: https://hailehotelsandresorts.com/images/gallery/Dining/haile-resorts-rooms-6-4.jpg
+Restaurant: https://hailehotelsandresorts.com/images/gallery/Accommodation/restorant.jpg
+Restaurant Setting: https://hailehotelsandresorts.com/images/gallery/Accommodation/restorant2.jpg
+Guest Room: https://hailehotelsandresorts.com/images/gallery/Accommodation/room.jpg
+Fitness: https://hailehotelsandresorts.com/images/gallery/Accommodation/gum.jpg
+Sunset: https://hailehotelsandresorts.com/images/gallery/Nature/sunset.jpg
+Batu Landscape: https://hailehotelsandresorts.com/images/gallery/Nature/batu1.jpg
+Arba Minch View: https://hailehotelsandresorts.com/images/gallery/Nature/arbaminch5.jpg
+Gondar Heritage: https://hailehotelsandresorts.com/images/gallery/Nature/gonder.jpg
+Events: https://hailehotelsandresorts.com/images/gallery/Dining/DSC01329-scaled.jpg
+
+NOTE: These are the exact image URLs currently exposed by Haile's official gallery. They are intentionally referenced from the official source so the website is not filled with invented or unrelated photos. To make them fully local/offline, the original image files must be downloaded with permission and placed in assets/.
